@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test_0708_1</string>
+    <string name="ex1">lottie</string>
+    <string name="ex2">Object_ani</string>
+    <string name="duration_hint">动画时长，单位毫秒，范围在 100 ~ 10000</string>
+    <string name="invalid_duration">时长设置不合理，请输入范围在 100 ~ 10000 的值</string>
+    <string name="rainbow_text">嘤嘤嘤^_^ 彩虹字体 ^_^ 嘤嘤嘤</string>
+    <string name="ex3">ch3ex3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
